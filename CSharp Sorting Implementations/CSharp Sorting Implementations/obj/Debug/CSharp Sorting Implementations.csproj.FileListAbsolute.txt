@@ -1,6 +1,0 @@
-D:\MyLearn\C#\C# Sorting Implementations\CSharp Sorting Implementations\CSharp Sorting Implementations\bin\Debug\CSharp Sorting Implementations.exe.config
-D:\MyLearn\C#\C# Sorting Implementations\CSharp Sorting Implementations\CSharp Sorting Implementations\bin\Debug\CSharp Sorting Implementations.exe
-D:\MyLearn\C#\C# Sorting Implementations\CSharp Sorting Implementations\CSharp Sorting Implementations\bin\Debug\CSharp Sorting Implementations.pdb
-D:\MyLearn\C#\C# Sorting Implementations\CSharp Sorting Implementations\CSharp Sorting Implementations\obj\Debug\CSharp Sorting Implementations.csprojResolveAssemblyReference.cache
-D:\MyLearn\C#\C# Sorting Implementations\CSharp Sorting Implementations\CSharp Sorting Implementations\obj\Debug\CSharp Sorting Implementations.exe
-D:\MyLearn\C#\C# Sorting Implementations\CSharp Sorting Implementations\CSharp Sorting Implementations\obj\Debug\CSharp Sorting Implementations.pdb
